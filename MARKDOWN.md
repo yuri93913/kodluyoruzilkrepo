@@ -1,6 +1,6 @@
 # kodluyoruz ilk repo
 
-bu repo [kodluyoruz](app.patika.dev) front-end eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
+bu repo [kodluyoruz](www.kodluyoruz.org) front-end eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
 
 ## installation
 
@@ -22,6 +22,6 @@ pull requestler kabul edilir. büyük değişiklikler için,lütfen önce neyi d
 
 ## license
 
-[MIT](app.patika.dev)
+[MIT](www.kodluyoruz.org)
 
 
